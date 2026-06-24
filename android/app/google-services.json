@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457379939589",
+    "project_id": "trashgo-adb8c",
+    "storage_bucket": "trashgo-adb8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457379939589:android:30f840d00e32601f5e236c",
+        "android_client_info": {
+          "package_name": "com.example.trashgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_n9sGaFaim3E9G4xMbj-E4zj9nuB2AzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
