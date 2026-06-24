@@ -1,0 +1,10 @@
+bin_inorganic
+bin_organic
+can
+cardboard
+dry_leaves
+food_waste
+glass_bottle
+paper
+plastic_bag
+plastic_bottle
